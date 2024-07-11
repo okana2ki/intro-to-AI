@@ -1,5 +1,0 @@
-添付したpose_video5.pyは、動画ファイルにポーズランドマークを重畳するプログラムです。これを元に、カメラからのライブストリーム映像にリアルタイムでランドマークを重畳するプログラムを作成して下さい。
-添付したlive_stream_mode_sample.pyは、ライブストリームモードでランドマーク認識するためのプログラムの先頭部分のサンプルや、関連情報で、https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker/python?hl=ja#live-streamに掲載されているものです。
-
-
-先ほど添付したpose_video5.pyで使用している新しいモデルを使うことにより、num_posesを設定して複数の人のランドマークが検出できるようにして下さい。
