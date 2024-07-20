@@ -1,3 +1,5 @@
+#  カメラ入力：旧モデル
+
 import cv2
 import mediapipe as mp
 import time
